@@ -1,0 +1,4 @@
+subject: Humans
+verb: read
+preposition: because
+information:  they like it.
